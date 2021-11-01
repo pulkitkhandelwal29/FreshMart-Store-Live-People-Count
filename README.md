@@ -82,7 +82,32 @@ For this project, we have used <b>MySQL database</b>.
 * People Exit Time
 * People Exit Count
 
+<br><br>
+## Demonstration
 
+### 1. People Entry Gate
+<br>
+
+![1](https://user-images.githubusercontent.com/67990422/139659022-5dbdaec0-f7fd-43a3-b0ba-6a47dc8c3fb0.PNG)
+![2](https://user-images.githubusercontent.com/67990422/139659027-511a612c-2750-4cea-92fb-4b3ff32d016b.PNG)
+![3](https://user-images.githubusercontent.com/67990422/139659031-e044a244-d616-4cbb-94ee-88d5cbb1192f.PNG)
+
+<br><br>
+
+### 2. People Exit Gate
+
+<br>
+
+![1](https://user-images.githubusercontent.com/67990422/139659263-8a3fbc58-7073-45b6-bf07-f781c5ddde66.PNG)
+![2](https://user-images.githubusercontent.com/67990422/139659268-1a7bc8dc-6931-4c74-85bd-6ec7f698e675.PNG)
+![3](https://user-images.githubusercontent.com/67990422/139659269-98d2fa08-bfbc-4ccc-ad2c-2d6fbcb3d246.PNG)
+
+<br><br>
+
+### 3. Age & Gender
+<br>
+
+![Screenshot (241)](https://user-images.githubusercontent.com/67990422/139659860-e61959bf-e862-4456-b55b-2aed01fb690e.png)
 
 
 
