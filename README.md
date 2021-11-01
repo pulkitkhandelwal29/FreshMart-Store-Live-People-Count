@@ -65,7 +65,7 @@ The project helps in measuring the number of people traversing a certain passage
 ### Pre-trained Caffe Deep Learning Models
 * MobileNet SSD (Single Shot Detector)
 
-
+<br><br>
 ## Database
 For this project, we have used <b>MySQL database</b>.
 
