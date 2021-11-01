@@ -66,6 +66,23 @@ The project helps in measuring the number of people traversing a certain passage
 * MobileNet SSD (Single Shot Detector)
 
 
+## Database
+For this project, we have used <b>MySQL database</b>.
+
+### Customer Details Table
+* Gender
+* Minimum Age
+* Maximum Age
+
+### People-In Outlet Table
+* People Entry Time
+* People In Count
+
+### People-Exit Outlet Table
+* People Exit Time
+* People Exit Count
+
+
 
 
 
